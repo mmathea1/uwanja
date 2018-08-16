@@ -1,6 +1,6 @@
 2018-08-16 12:39:59,213 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-627 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:39:59,219 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-627 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:39:59,228 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-627 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:39:59,228 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-627 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:39:59,267 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-627 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -12,7 +12,7 @@
 2018-08-16 12:42:03,830 [INFO] from application in application-akka.actor.default-dispatcher-11 - Shutting down connection pool.
 2018-08-16 12:42:03,927 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-629 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:42:03,934 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-629 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:42:03,942 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-629 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:42:03,942 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-629 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:42:03,974 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-629 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -24,7 +24,7 @@
 2018-08-16 12:42:58,886 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
 2018-08-16 12:42:58,995 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-676 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:42:59,002 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-676 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:42:59,011 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-676 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:42:59,011 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-676 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:42:59,041 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-676 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -36,7 +36,7 @@
 2018-08-16 12:43:30,433 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 12:43:30,517 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-676 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:43:30,524 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-676 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:43:30,534 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-676 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:43:30,534 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-676 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:43:30,563 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-676 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -48,7 +48,7 @@
 2018-08-16 12:44:14,856 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 12:44:14,956 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-678 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:44:14,986 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-678 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:44:14,994 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-678 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:44:14,994 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-678 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:44:15,024 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-678 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -60,7 +60,7 @@
 2018-08-16 12:45:23,296 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
 2018-08-16 12:45:23,380 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-769 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:45:23,385 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-769 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:45:23,393 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-769 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:45:23,393 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-769 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:45:23,423 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-769 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -72,7 +72,7 @@
 2018-08-16 12:46:11,345 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 12:46:11,434 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-792 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:46:11,439 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-792 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:46:11,447 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-792 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:46:11,447 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-792 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:46:11,474 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-792 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -84,7 +84,7 @@
 2018-08-16 12:47:02,168 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
 2018-08-16 12:47:02,274 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-760 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:47:02,280 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-760 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:47:02,288 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-760 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:47:02,288 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-760 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:47:02,316 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-760 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -96,7 +96,7 @@
 2018-08-16 12:48:16,331 [INFO] from application in application-akka.actor.default-dispatcher-26 - Shutting down connection pool.
 2018-08-16 12:48:16,416 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-837 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:48:16,422 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-837 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:48:16,428 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-837 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:48:16,428 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-837 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:48:16,454 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-837 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -108,7 +108,7 @@
 2018-08-16 12:49:55,408 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
 2018-08-16 12:49:55,491 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-877 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:49:55,496 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-877 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:49:55,503 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-877 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:49:55,503 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-877 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:49:55,532 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-877 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -120,7 +120,7 @@
 2018-08-16 12:52:56,877 [INFO] from application in application-akka.actor.default-dispatcher-14 - Shutting down connection pool.
 2018-08-16 12:52:56,968 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-892 - Creating Pool for datasource 'uwanja'
 2018-08-16 12:52:56,974 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-892 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 12:52:56,982 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-892 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 12:52:56,982 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-892 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 12:52:57,009 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-892 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -132,7 +132,7 @@
 2018-08-16 13:01:43,464 [INFO] from application in application-akka.actor.default-dispatcher-14 - Shutting down connection pool.
 2018-08-16 13:01:43,548 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-919 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:01:43,553 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-919 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:01:43,561 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-919 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:01:43,561 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-919 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:01:43,586 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-919 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -144,7 +144,7 @@
 2018-08-16 13:03:39,012 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
 2018-08-16 13:03:39,112 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-945 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:03:39,118 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-945 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:03:39,128 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-945 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:03:39,128 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-945 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:03:39,157 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-945 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -156,7 +156,7 @@
 2018-08-16 13:05:50,771 [INFO] from application in application-akka.actor.default-dispatcher-26 - Shutting down connection pool.
 2018-08-16 13:05:50,892 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-977 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:05:50,897 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-977 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:05:50,903 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-977 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:05:50,903 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-977 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:05:50,937 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-977 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -168,7 +168,7 @@
 2018-08-16 13:08:48,143 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
 2018-08-16 13:08:48,226 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1017 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:08:48,233 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1017 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:08:48,244 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1017 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:08:48,244 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1017 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:08:48,275 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1017 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -180,7 +180,7 @@
 2018-08-16 13:13:01,849 [INFO] from application in application-akka.actor.default-dispatcher-29 - Shutting down connection pool.
 2018-08-16 13:13:02,119 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1052 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:13:02,136 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1052 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:13:02,151 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1052 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:13:02,151 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1052 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:13:02,194 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1052 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -237,7 +237,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:28:24,644 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
 2018-08-16 13:28:24,755 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1090 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:28:24,760 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1090 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:28:24,767 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1090 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:28:24,767 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1090 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:28:24,796 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1090 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -249,7 +249,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:30:16,091 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
 2018-08-16 13:30:16,190 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1131 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:30:16,195 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1131 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:30:16,203 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1131 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:30:16,203 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1131 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:30:16,227 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1131 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -261,7 +261,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:30:48,253 [INFO] from application in application-akka.actor.default-dispatcher-12 - Shutting down connection pool.
 2018-08-16 13:30:48,364 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1126 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:30:48,370 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1126 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:30:48,379 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1126 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:30:48,379 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1126 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:30:48,404 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1126 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -273,7 +273,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:31:21,010 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
 2018-08-16 13:31:21,098 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1131 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:31:21,105 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1131 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:31:21,112 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1131 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:31:21,112 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1131 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:31:21,140 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1131 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -285,7 +285,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:31:58,773 [INFO] from application in application-akka.actor.default-dispatcher-5 - Shutting down connection pool.
 2018-08-16 13:31:58,849 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1194 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:31:58,855 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1194 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:31:58,861 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1194 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:31:58,861 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1194 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:31:58,896 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1194 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -297,7 +297,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:34:51,221 [INFO] from application in application-akka.actor.default-dispatcher-26 - Shutting down connection pool.
 2018-08-16 13:34:51,312 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1226 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:34:51,318 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1226 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:34:51,325 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1226 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:34:51,325 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1226 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:34:51,352 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1226 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -309,7 +309,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:35:11,438 [INFO] from application in application-akka.actor.default-dispatcher-3 - Shutting down connection pool.
 2018-08-16 13:35:11,518 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1230 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:35:11,523 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1230 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:35:11,529 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1230 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:35:11,529 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1230 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:35:11,564 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1230 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -321,7 +321,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:38:50,760 [INFO] from application in application-akka.actor.default-dispatcher-26 - Shutting down connection pool.
 2018-08-16 13:38:50,836 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1288 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:38:50,842 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1288 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:38:50,849 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1288 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:38:50,849 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1288 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:38:50,872 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1288 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -333,7 +333,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:41:05,487 [INFO] from application in application-akka.actor.default-dispatcher-32 - Shutting down connection pool.
 2018-08-16 13:41:05,593 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1281 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:41:05,599 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1281 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:41:05,606 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1281 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:41:05,606 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1281 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:41:05,635 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1281 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -345,7 +345,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:41:25,960 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
 2018-08-16 13:41:26,039 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1343 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:41:26,044 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1343 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:41:26,053 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1343 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:41:26,053 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1343 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:41:26,082 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1343 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -357,7 +357,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:46:40,647 [INFO] from application in application-akka.actor.default-dispatcher-55 - Shutting down connection pool.
 2018-08-16 13:46:40,751 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1409 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:46:40,758 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1409 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:46:40,764 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1409 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:46:40,764 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1409 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:46:40,787 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1409 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -369,7 +369,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:46:59,042 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 13:46:59,123 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1420 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:46:59,130 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1420 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:46:59,136 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1420 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:46:59,136 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1420 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:46:59,159 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1420 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -381,7 +381,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:47:18,435 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
 2018-08-16 13:47:18,510 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1455 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:47:18,515 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1455 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:47:18,522 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1455 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:47:18,522 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1455 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:47:18,549 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1455 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -393,7 +393,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:52:52,043 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
 2018-08-16 13:52:52,139 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1509 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:52:52,147 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1509 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:52:52,157 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1509 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:52:52,157 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1509 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:52:52,192 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1509 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -405,7 +405,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 13:58:19,557 [INFO] from application in application-akka.actor.default-dispatcher-2 - Shutting down connection pool.
 2018-08-16 13:58:19,644 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1545 - Creating Pool for datasource 'uwanja'
 2018-08-16 13:58:19,649 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1545 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 13:58:19,655 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1545 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 13:58:19,655 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1545 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 13:58:19,681 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1545 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -417,7 +417,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:02:30,765 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
 2018-08-16 14:02:30,877 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1579 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:02:30,883 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1579 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:02:30,890 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1579 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:02:30,890 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1579 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:02:30,918 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1579 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -429,7 +429,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:18:48,581 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
 2018-08-16 14:18:48,739 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1617 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:18:48,746 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1617 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:18:48,755 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1617 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:18:48,755 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1617 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:18:48,788 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1617 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -441,7 +441,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:19:09,352 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
 2018-08-16 14:19:09,464 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1616 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:19:09,470 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1616 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:19:09,478 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1616 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:19:09,478 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1616 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:19:09,523 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1616 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -453,7 +453,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:24:49,316 [INFO] from application in application-akka.actor.default-dispatcher-3 - Shutting down connection pool.
 2018-08-16 14:24:49,446 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1662 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:24:49,453 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1662 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:24:49,465 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1662 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:24:49,465 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1662 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:24:49,503 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1662 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -465,7 +465,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:25:40,026 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 14:25:40,171 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1683 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:25:40,177 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1683 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:25:40,186 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1683 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:25:40,186 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1683 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:25:40,217 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1683 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -477,7 +477,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:28:45,542 [INFO] from application in application-akka.actor.default-dispatcher-72 - Shutting down connection pool.
 2018-08-16 14:28:45,665 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1723 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:28:45,674 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1723 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:28:45,683 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1723 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:28:45,683 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1723 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:28:45,721 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1723 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -489,7 +489,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:29:08,285 [INFO] from application in application-akka.actor.default-dispatcher-5 - Shutting down connection pool.
 2018-08-16 14:29:08,421 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1758 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:29:08,428 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1758 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:29:08,437 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1758 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:29:08,437 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1758 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:29:08,470 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1758 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -501,7 +501,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:30:46,755 [INFO] from application in application-akka.actor.default-dispatcher-5 - Shutting down connection pool.
 2018-08-16 14:30:46,881 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1784 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:30:46,889 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1784 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:30:46,899 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1784 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:30:46,899 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1784 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:30:46,937 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1784 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -513,7 +513,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:31:06,469 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
 2018-08-16 14:31:06,605 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1759 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:31:06,612 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1759 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:31:06,621 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1759 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:31:06,621 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1759 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:31:06,666 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1759 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -525,7 +525,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:35:06,278 [INFO] from application in application-akka.actor.default-dispatcher-26 - Shutting down connection pool.
 2018-08-16 14:35:06,385 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1832 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:35:06,393 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1832 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:35:06,405 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1832 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:35:06,405 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1832 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:35:06,440 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1832 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -537,7 +537,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:35:18,095 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 14:35:18,209 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1832 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:35:18,215 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1832 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:35:18,224 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1832 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:35:18,224 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1832 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:35:18,260 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1832 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -549,7 +549,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:35:30,644 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 14:35:30,807 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1830 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:35:30,816 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1830 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:35:30,826 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1830 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:35:30,826 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1830 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:35:30,865 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1830 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -561,7 +561,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:35:59,727 [INFO] from application in application-akka.actor.default-dispatcher-9 - Shutting down connection pool.
 2018-08-16 14:35:59,858 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1835 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:35:59,868 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1835 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:35:59,878 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1835 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:35:59,878 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1835 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:35:59,927 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1835 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -573,7 +573,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:49:34,711 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
 2018-08-16 14:49:34,836 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1913 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:49:34,844 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1913 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:49:34,853 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1913 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:49:34,853 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1913 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:49:34,884 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1913 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -585,7 +585,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:52:45,979 [INFO] from application in application-akka.actor.default-dispatcher-29 - Shutting down connection pool.
 2018-08-16 14:52:46,108 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1944 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:52:46,117 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1944 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:52:46,126 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1944 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:52:46,126 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1944 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:52:46,162 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1944 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -597,7 +597,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:53:34,456 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
 2018-08-16 14:53:34,585 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1946 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:53:34,592 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1946 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:53:34,601 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1946 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:53:34,601 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1946 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:53:34,633 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1946 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -609,7 +609,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:54:16,768 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
 2018-08-16 14:54:16,946 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1969 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:54:16,955 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1969 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:54:16,966 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1969 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:54:16,966 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1969 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:54:17,007 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1969 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -621,7 +621,7 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
 2018-08-16 14:54:44,218 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
 2018-08-16 14:54:44,351 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-1944 - Creating Pool for datasource 'uwanja'
 2018-08-16 14:54:44,360 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-1944 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
-2018-08-16 14:54:44,367 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1944 - application.conf @ file:/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 14:54:44,367 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-1944 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
 2018-08-16 14:54:44,398 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-1944 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
@@ -630,3 +630,219 @@ play.sbt.PlayExceptions$CompilationException: Compilation error[value markAttend
     play.filters.gzip.GzipFilter
 
 2018-08-16 14:54:44,400 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-1944 - Application started (Dev)
+2018-08-16 16:37:38,133 [INFO] from application in application-akka.actor.default-dispatcher-53 - Shutting down connection pool.
+2018-08-16 16:37:38,278 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2070 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:37:38,286 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2070 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:37:38,296 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2070 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:37:38,332 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2070 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:37:38,334 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2070 - Application started (Dev)
+2018-08-16 16:43:42,135 [INFO] from application in application-akka.actor.default-dispatcher-10 - Shutting down connection pool.
+2018-08-16 16:43:42,267 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2114 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:43:42,278 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2114 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:43:42,292 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2114 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:43:42,338 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2114 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:43:42,341 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2114 - Application started (Dev)
+2018-08-16 16:46:03,060 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
+2018-08-16 16:46:03,193 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2137 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:46:03,200 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2137 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:46:03,208 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2137 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:46:03,240 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2137 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:46:03,243 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2137 - Application started (Dev)
+2018-08-16 16:48:13,725 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2018-08-16 16:48:13,879 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2161 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:48:13,886 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2161 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:48:13,896 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2161 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:48:13,929 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2161 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:48:13,932 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2161 - Application started (Dev)
+2018-08-16 16:50:21,323 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
+2018-08-16 16:50:21,461 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2160 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:50:21,470 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2160 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:50:21,481 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2160 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:50:21,522 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2160 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:50:21,524 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2160 - Application started (Dev)
+2018-08-16 16:50:57,435 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2018-08-16 16:50:57,572 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2193 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:50:57,580 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2193 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:50:57,589 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2193 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:50:57,624 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2193 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:50:57,626 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2193 - Application started (Dev)
+2018-08-16 16:57:02,289 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2018-08-16 16:57:02,433 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2241 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:57:02,441 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2241 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:57:02,449 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2241 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:57:02,497 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2241 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:57:02,501 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2241 - Application started (Dev)
+2018-08-16 16:57:36,107 [INFO] from application in application-akka.actor.default-dispatcher-4 - Shutting down connection pool.
+2018-08-16 16:57:36,234 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2241 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:57:36,242 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2241 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:57:36,251 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2241 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:57:36,298 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2241 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:57:36,300 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2241 - Application started (Dev)
+2018-08-16 16:58:13,983 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2018-08-16 16:58:14,107 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2240 - Creating Pool for datasource 'uwanja'
+2018-08-16 16:58:14,114 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2240 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 16:58:14,123 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2240 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 16:58:14,156 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2240 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 16:58:14,158 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2240 - Application started (Dev)
+2018-08-16 17:02:57,490 [INFO] from application in application-akka.actor.default-dispatcher-29 - Shutting down connection pool.
+2018-08-16 17:02:57,636 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2320 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:02:57,642 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2320 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:02:57,650 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2320 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:02:57,682 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2320 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:02:57,685 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2320 - Application started (Dev)
+2018-08-16 17:20:01,827 [INFO] from application in application-akka.actor.default-dispatcher-6 - Shutting down connection pool.
+2018-08-16 17:20:01,969 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2357 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:20:01,977 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2357 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:20:01,987 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2357 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:20:02,020 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2357 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:20:02,023 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2357 - Application started (Dev)
+2018-08-16 17:24:16,583 [INFO] from application in application-akka.actor.default-dispatcher-34 - Shutting down connection pool.
+2018-08-16 17:24:16,725 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2394 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:24:16,734 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2394 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:24:16,743 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2394 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:24:16,775 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2394 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:24:16,778 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2394 - Application started (Dev)
+2018-08-16 17:24:44,090 [INFO] from application in application-akka.actor.default-dispatcher-10 - Shutting down connection pool.
+2018-08-16 17:24:44,270 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2396 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:24:44,280 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2396 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:24:44,292 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2396 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:24:44,333 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2396 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:24:44,337 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2396 - Application started (Dev)
+2018-08-16 17:25:28,424 [INFO] from application in application-akka.actor.default-dispatcher-28 - Shutting down connection pool.
+2018-08-16 17:25:28,554 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2454 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:25:28,563 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2454 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:25:28,573 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2454 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:25:28,607 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2454 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:25:28,610 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2454 - Application started (Dev)
+2018-08-16 17:26:56,124 [INFO] from application in application-akka.actor.default-dispatcher-32 - Shutting down connection pool.
+2018-08-16 17:26:56,317 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2477 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:26:56,325 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2477 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:26:56,338 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2477 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:26:56,379 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2477 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:26:56,382 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2477 - Application started (Dev)
+2018-08-16 17:28:31,673 [INFO] from application in application-akka.actor.default-dispatcher-10 - Shutting down connection pool.
+2018-08-16 17:28:31,790 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2478 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:28:31,797 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2478 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:28:31,805 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2478 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:28:31,838 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2478 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:28:31,841 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2478 - Application started (Dev)
+2018-08-16 17:29:18,062 [INFO] from application in application-akka.actor.default-dispatcher-7 - Shutting down connection pool.
+2018-08-16 17:29:18,193 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2480 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:29:18,200 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2480 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:29:18,209 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2480 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:29:18,259 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2480 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:29:18,262 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2480 - Application started (Dev)
+2018-08-16 17:30:06,210 [INFO] from application in application-akka.actor.default-dispatcher-27 - Shutting down connection pool.
+2018-08-16 17:30:06,324 [INFO] from application in play-dev-mode-akka.actor.default-dispatcher-2516 - Creating Pool for datasource 'uwanja'
+2018-08-16 17:30:06,331 [INFO] from play.api.db.DefaultDBApi in play-dev-mode-akka.actor.default-dispatcher-2516 - Database [uwanja] connected at jdbc:mysql://localhost:3306/uwanja
+2018-08-16 17:30:06,339 [WARN] from application in play-dev-mode-akka.actor.default-dispatcher-2516 - application.conf @ file:/family/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf: 44: play.crypto.secret is deprecated, use play.http.secret.key instead
+2018-08-16 17:30:06,372 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-2516 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    play.filters.csrf.CSRFFilter
+    play.filters.headers.SecurityHeadersFilter
+    play.filters.hosts.AllowedHostsFilter
+    play.filters.gzip.GzipFilter
+
+2018-08-16 17:30:06,374 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-2516 - Application started (Dev)

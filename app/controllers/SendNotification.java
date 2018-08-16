@@ -10,14 +10,14 @@ public class SendNotification extends Controller {
     }
 
     public Result makeAnnouncement() {
-        return ok(views.html.sendNotifications.render());
+        return ok(views.html.announcement.render());
     }
 
     public Result sendMessage() {
-        return ok(views.html.sendNotifications.render());
+        return ok(views.html.sendMessage.render());
     }
 
     public Result sendPushNotification() {
-        return ok(views.html.sendNotifications.render());
+        return ok(views.html.sendPushNotification.render());
     }
 }

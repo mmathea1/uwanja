@@ -121,14 +121,14 @@ process_args () {
     -v|-verbose) verbose=1 && shift ;;
       -d|-debug) debug=1 && shift ;;
 
-           -ivy) require_arg path "$1" "$2" && addJava "-Dsbt.ivy.home=$2" && shift 2 ;;
+           -ivy) require_arg path "$1" "$2" && addJava "-Dsbt.ivy.family=$2" && shift 2 ;;
            -mem) require_arg integer "$1" "$2" && sbt_mem="$2" && shift 2 ;;
      -jvm-debug) require_arg port "$1" "$2" && addDebugger $2 && shift 2 ;;
          -batch) exec </dev/null && shift ;;
 
        -sbt-jar) require_arg path "$1" "$2" && sbt_jar="$2" && shift 2 ;;
    -sbt-version) require_arg version "$1" "$2" && sbt_version="$2" && shift 2 ;;
-     -java-home) require_arg path "$1" "$2" && java_cmd="$2/bin/java" && shift 2 ;;
+     -java-family) require_arg path "$1" "$2" && java_cmd="$2/bin/java" && shift 2 ;;
 
             -D*) addJava "$1" && shift ;;
             -J*) addJava "${1:2}" && shift ;;
