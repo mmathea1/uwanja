@@ -2,6 +2,7 @@ package models;
 
 import io.ebean.Finder;
 import io.ebean.Model;
+import util.Util;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -32,7 +33,8 @@ public class Guardian extends Model {
     public static Finder<String, Guardian> guardianFinder = new Finder<>(Guardian.class, "uwanja");
 
     public Guardian() {
-        this.guardianId = UUID.randomUUID().toString();
+//        this.guardianId = UUID.randomUUID().toString();
+        this.guardianId = Util.getUUID();
         this.firstName = "";
         this.lastName = "";
         this.email = "";

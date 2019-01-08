@@ -2,6 +2,7 @@ package models;
 
 import io.ebean.Finder;
 import io.ebean.Model;
+import util.Util;
 
 import javax.persistence.*;
 import java.time.Year;
@@ -15,23 +16,22 @@ public class Classroom extends Model {
     @Column(name = "ID")
     private String classId;
 
-    @Column(name = "CLASS_NAME")
+    @Column(name = "CLASSROOM_NAME")
     private String classRoomName;
 
     @Column(name = "FIRST_YEAR")
     private Year firstYear;
 
-    @JoinColumn(name = "TEACHER_ID")
+
+    @JoinColumn(name = "TEACHER_ID", referencedColumnName = "ID")
     private Teacher classTeacher;
 
 
     public static Finder<String, Classroom> finder = new Finder<String, Classroom>(Classroom.class, "uwanja");
 
     public Classroom() {
-        this.classId = UUID.randomUUID().toString();
-//      this.id = new UUID(10,5).toString();
+        this.classId = Util.getUUID();
         this.classRoomName = "";
-//      this.firstYear = null;
         this.classTeacher = new Teacher();
 
     }

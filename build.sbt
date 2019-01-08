@@ -13,6 +13,8 @@ scalaVersion := "2.12.4"
 
 libraryDependencies ++= Seq(
   guice,
+  evolutions, jdbc,
+
   "commons-io" % "commons-io" % "2.5" withSources(),
   "org.apache.commons" % "commons-text" % "1.3",
   "org.apache.poi" % "poi" % "3.14",
@@ -30,8 +32,11 @@ libraryDependencies ++= Seq(
   "org.awaitility" % "awaitility" % "2.0.0" % Test,
   //for email and message templates
   "org.freemarker" % "freemarker" % "2.3.28",
-  //for front-end react state management
-  "org.webjars.npm" % "mobx" % "3.5.1"
+  "org.webjars" %% "webjars-play" % "2.6.3",
+  //for react
+  // reactjs
+  "org.webjars" % "react" % "15.3.1",
+  "org.webjars.npm" % "react-dom" % "15.0.1",
 )
 
 // Make verbose tests

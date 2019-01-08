@@ -1,0 +1,30 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node',
+1 verbose cli   '/usr/bin/npm',
+1 verbose cli   'init',
+1 verbose cli   'react-app',
+1 verbose cli   'my-uwanja' ]
+2 info using npm@3.5.2
+3 info using node@v8.10.0
+4 silly package data undefined
+5 info init written successfully
+6 verbose stack TypeError: Cannot read property 'toUpperCase' of undefined
+6 verbose stack     at Array.<anonymous> (/usr/share/npm/node_modules/validate-npm-package-license/node_modules/spdx-correct/index.js:82:24)
+6 verbose stack     at validTransformation (/usr/share/npm/node_modules/validate-npm-package-license/node_modules/spdx-correct/index.js:173:36)
+6 verbose stack     at module.exports (/usr/share/npm/node_modules/validate-npm-package-license/node_modules/spdx-correct/index.js:215:21)
+6 verbose stack     at module.exports (/usr/share/npm/node_modules/validate-npm-package-license/index.js:60:23)
+6 verbose stack     at /usr/share/npm/node_modules/init-package-json/default-input.js:232:13
+6 verbose stack     at PromZard.<anonymous> (/usr/share/npm/node_modules/init-package-json/node_modules/promzard/promzard.js:226:19)
+6 verbose stack     at Interface.onLine (/usr/share/npm/node_modules/read/lib/read.js:111:5)
+6 verbose stack     at emitOne (events.js:116:13)
+6 verbose stack     at Interface.emit (events.js:211:7)
+6 verbose stack     at Interface._onLine (readline.js:282:10)
+7 verbose cwd /home/mingina/Projects/uwanja
+8 error Linux 4.15.0-32-generic
+9 error argv "/usr/bin/node" "/usr/bin/npm" "init" "react-app" "my-uwanja"
+10 error node v8.10.0
+11 error npm  v3.5.2
+12 error Cannot read property 'toUpperCase' of undefined
+13 error If you need help, you may report this error at:
+13 error     <https://github.com/npm/npm/issues>
+14 verbose exit [ 1, true ]

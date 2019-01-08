@@ -2,6 +2,7 @@ package models;
 
 import io.ebean.Finder;
 import io.ebean.Model;
+import util.Util;
 
 import javax.persistence.*;
 import java.time.Year;
@@ -22,11 +23,8 @@ public class Teacher extends Model {
     @Column(name = "LNAME")
     private String lastName;
 
-    @JoinColumn(referencedColumnName = "SUBJECT_CODE")
-    private Subject teachingSubject;
-
-    @JoinColumn(name = "CLASS_ID")
-    private Classroom teachingClass;
+    @JoinColumn(name = "SUBJECT_REF_ID", referencedColumnName = "ID")
+    private SubjectRef teachingSubject;
 
     @Column(name = "EMAIL")
     private String email;
@@ -41,11 +39,10 @@ public class Teacher extends Model {
     public static Finder<String, Teacher> teacherFinder = new Finder<String, Teacher>(Teacher.class, "uwanja");
 
     public Teacher() {
-        this.teacherId = UUID.randomUUID().toString();
+        this.teacherId  = Util.getUUID();
         this.firstName = "";
         this.lastName = "";
-        this.teachingSubject = new Subject();
-        this.teachingClass = new Classroom();
+        this.teachingSubject = new SubjectRef();
         this.email = "";
         this.phoneNumber = "";
 
@@ -63,13 +60,10 @@ public class Teacher extends Model {
         return lastName;
     }
 
-    public Subject getTeachingSubject() {
+    public SubjectRef getTeachingSubject() {
         return teachingSubject;
     }
 
-    public Classroom getTeachingClass() {
-        return teachingClass;
-    }
 
     public String getPhoneNumber() {
         return phoneNumber;
@@ -96,12 +90,8 @@ public class Teacher extends Model {
         this.lastName = lastName;
     }
 
-    public void setTeachingSubject(Subject teachingSubject) {
+    public void setTeachingSubject(SubjectRef teachingSubject) {
         this.teachingSubject = teachingSubject;
-    }
-
-    public void setTeachingClass(Classroom teachingClass) {
-        this.teachingClass = teachingClass;
     }
 
     public void setEmail(String email) {

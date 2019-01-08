@@ -2,6 +2,7 @@ package models;
 
 import io.ebean.Finder;
 import io.ebean.Model;
+import util.Util;
 
 import javax.persistence.*;
 import java.util.UUID;
@@ -37,7 +38,8 @@ public class Family extends Model {
     public static Finder<String, Family> familyFinder = new Finder<>(Family.class, "uwanja");
 
     public Family() {
-        this.familyId = UUID.randomUUID().toString();
+//        this.familyId = UUID.randomUUID().toString();
+        this.familyId = Util.getUUID();
         this.familyName = "";
         this.familyType = "";
         this.guardian = new Guardian();

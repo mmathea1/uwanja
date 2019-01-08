@@ -1,0 +1,7 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mingina/Projects/uwanja/conf/evolutions,/home/mingina/Projects/uwanja/target/scala-2.12/classes/evolutions)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mingina/Projects/uwanja/conf/evolutions/uwanja,/home/mingina/Projects/uwanja/target/scala-2.12/classes/evolutions/uwanja)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mingina/Projects/uwanja/conf/evolutions/uwanja/1.sql,/home/mingina/Projects/uwanja/target/scala-2.12/classes/evolutions/uwanja/1.sql)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mingina/Projects/uwanja/conf/logback.xml,/home/mingina/Projects/uwanja/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mingina/Projects/uwanja/conf/routes,/home/mingina/Projects/uwanja/target/scala-2.12/classes/routes)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/mingina/Projects/uwanja/conf/application.conf,/home/mingina/Projects/uwanja/target/scala-2.12/classes/application.conf)[0m

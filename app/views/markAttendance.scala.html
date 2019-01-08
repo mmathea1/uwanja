@@ -1,3 +1,5 @@
+
+@(student: Student, studentList: List[Student])
 @main("Mark Attendance") {
 
 
@@ -36,74 +38,28 @@
                                 </tr>
                             </thead>
                             <tbody>
-                                <tr class="odd gradeX">
-                                    <td>Trident</td>
-                                    <td>Internet Explorer 4.0</td>
-                                    <td>Win 95+</td>
+                                @for(student <- studentList) {
 
-                                </tr>
-                                <tr class="even gradeC">
-                                    <td>Trident</td>
-                                    <td>Internet Explorer 5.0</td>
-                                    <td>Win 95+</td>
+                                    <tr class="odd gradeX">
+                                        <td>@student.getFirstName @student.getLastName</td>
+                                        <td>@student.getStudentId</td>
+                                        <td><input type="checkbox" class="attendanceClass" value="@student.getStudentId" checked id="studentChecked"></td>
 
-                                </tr>
-                                <tr class="odd gradeA">
-                                    <td>Trident</td>
-                                    <td>Internet Explorer 5.5</td>
-                                    <td>Win 95+</td>
+                                    </tr>
+                                }
 
-                                </tr>
-                                <tr class="even gradeA">
-                                    <td>Trident</td>
-                                    <td>Internet Explorer 6</td>
-                                    <td>Win 98+</td>
-
-                                </tr>
-                                <tr class="odd gradeA">
-                                    <td>Trident</td>
-                                    <td>Internet Explorer 7</td>
-                                    <td>Win XP SP2+</td>
-
-                                </tr>
-                                <tr class="even gradeA">
-                                    <td>Trident</td>
-                                    <td>AOL browser (AOL desktop)</td>
-                                    <td>Win XP</td>
-
-                                </tr>
-                                <tr class="gradeA">
-                                    <td>Gecko</td>
-                                    <td>Firefox 1.0</td>
-                                    <td>Win 98+ / OSX.2+</td>
-
-                                </tr>
-                                <tr class="gradeA">
-                                    <td>Gecko</td>
-                                    <td>Firefox 1.5</td>
-                                    <td>Win 98+ / OSX.2+</td>
-
-                                </tr>
-                                <tr class="gradeA">
-                                    <td>Gecko</td>
-                                    <td>Firefox 2.0</td>
-                                    <td>Win 98+ / OSX.2+</td>
-
-                                </tr>
-                                <tr class="gradeA">
-                                    <td>Gecko</td>
-                                    <td>Firefox 3.0</td>
-                                    <td>Win 2k+ / OSX.3+</td>
-
-                                </tr>
-                                <tr class="gradeA">
-                                    <td>Gecko</td>
-                                    <td>Camino 1.0</td>
-                                    <td>OSX.2+</td>
-                                </tr>
 
                             </tbody>
                         </table>
+                        <div class="col-lg-12">
+
+                            @*<form action="@routes.MarkAttendance.confirmAttendance()" method="post">*@
+                                <button type="submit" class="btn btn-primary" onclick="getStudentAttendance()">
+                                    Confirm Attendance</button>
+                            @*</form>*@
+
+
+                        </div>
                     </div>
                         <!-- /.panel-body -->
                 </div>
@@ -116,10 +72,40 @@
 
 
     <script>
+
             $(document).ready(function () {
                 $('#dataTables-example').DataTable({
                     responsive: true
                 });
+
+
             });
     </script>
+
+    <script>
+       function getStudentAttendance() {
+           $( ".attendanceClass" ).each(function( index ) {
+               // console.log( index + ": "  );
+               console.log( index + ": ", $( this ) );
+
+               var obj = $(this)[0];
+               var reg = obj.value;
+               if(obj.checked){
+                   console.log("REGGGG", reg);
+                   List attendanceList =
+               }
+           });
+         // console.log("EVEnt: ", event);
+
+       }
+
+
+
+
+
+
+
+
+    </script>
+
 }

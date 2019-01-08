@@ -2,6 +2,7 @@ package models;
 
 import io.ebean.Finder;
 import io.ebean.Model;
+import util.Util;
 
 import javax.persistence.*;
 import java.util.UUID;
@@ -24,7 +25,7 @@ public class SportsTeam extends Model {
     public static Finder<String, SportsTeam> sportsTeamFinder = new Finder<>(SportsTeam.class, "uwanja");
 
     public SportsTeam() {
-        this.sportsTeamId = UUID.randomUUID().toString();
+        this.sportsTeamId = Util.getUUID();
         this.teamName = "";
         this.sport = new Sport();
     }

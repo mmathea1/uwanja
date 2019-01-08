@@ -2,6 +2,7 @@ package models;
 
 import io.ebean.Finder;
 import io.ebean.Model;
+import util.Util;
 
 import javax.persistence.*;
 import java.util.Date;
@@ -24,13 +25,13 @@ public class Student extends Model {
     @Column(name = "DOB")
     private Date dateOfBirth;
 
-    @JoinColumn(name = "FAMILY_ID")
+    @JoinColumn(name = "FAMILY_ID", referencedColumnName = "ID")
     private Family studentFamily;
 
-    @JoinColumn(name = "CLASS_ID")
+    @JoinColumn(name = "CLASSROOM_ID", referencedColumnName = "ID")
     private Classroom classroom;
 
-    @JoinColumn(name = "SPORTS_ID", referencedColumnName = "ID")
+    @JoinColumn(name = "SPORTS_TEAM_ID", referencedColumnName = "ID")
     private SportsTeam sportsTeam;
 
 
@@ -38,7 +39,8 @@ public class Student extends Model {
 
 
     public Student() {
-        this.studentId = UUID.randomUUID().toString();
+//        this.studentId = UUID.randomUUID().toString();
+        this.studentId = Util.getUUID();
         this.firstName = "";
         this.lastName = "";
         this.studentFamily = new Family();
